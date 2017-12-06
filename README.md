@@ -2,7 +2,7 @@
 Market: SF
 Adapted for: DEN
 -->
-
+What do you mean make a change 12/6/17
 <!--This still takes a full hour and 15...git is hard, really hard-->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
